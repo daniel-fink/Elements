@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>Hypar.Elements.Components</AssemblyName>
     <PackageTitle>Hypar Elements Components</PackageTitle>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
