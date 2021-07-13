@@ -13,4 +13,10 @@
     <PackageReference Include="BenchmarkDotNet" Version="0.12.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="glTFLoader, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\Elements\lib\glTFLoader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
