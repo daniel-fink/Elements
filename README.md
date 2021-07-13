@@ -1,3 +1,9 @@
+### Note:
+This fork upgrades Elements for use in the latest version of Unity (2020.3.11f1), since there are some dependency conflicts using the original project. (Specifically it updates the glTFLoader so it uses an later version of Newtonsoft.Json, and updates the core Elements library to netstandard2.1)
+
+This has been tested on macOS. All Unit tests pass.
+
+
 # Elements
 
 ![Tag and Publish Alpha](https://github.com/hypar-io/Elements/workflows/Tag%20and%20Publish%20Alpha/badge.svg)
