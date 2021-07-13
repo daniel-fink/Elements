@@ -1,5 +1,6 @@
 ### Note:
-This fork upgrades Elements for use in the latest version of Unity (2020.3.11f1), since there are some dependency conflicts using the original project. (Specifically it updates the glTFLoader so it uses an later version of Newtonsoft.Json, and updates the core Elements library to netstandard2.1)
+This fork upgrades Elements for use in the latest version of Unity (2020.3.11f1), since there are some dependency conflicts using the original project.
+Specifically it updates the glTFLoader so it uses a later version of Newtonsoft.Json, and updates the core Elements library to netstandard2.1. The updated glTFLoader .DLL can be built using this repository: https://github.com/daniel-fink/glTF-CSharp-Loader
 
 This has been tested on macOS. All Unit tests pass.
 
